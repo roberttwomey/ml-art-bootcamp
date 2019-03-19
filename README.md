@@ -1,5 +1,6 @@
 # ml-art-bootcamp
 Machine Learning for the Arts Bootcamp at UCSD, Spring 2019
+
 https://github.com/roberttwomey/ml-art-bootcamp
 
 "Length": 5 hrs
