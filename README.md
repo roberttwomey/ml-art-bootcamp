@@ -1,9 +1,7 @@
 # Machine Learning for the Arts Bootcamp
 
-Robert Twomey - rtwomey@ucsd.edu  - UC San Diego - Spring 2019 
-
-https://github.com/roberttwomey/ml-art-bootcamp
-
+UC San Diego - Spring 2019 - https://github.com/roberttwomey/ml-art-bootcamp
+- **Instructor**: Robert Twomey - rtwomey@ucsd.edu - roberttwomey.com
 - **Date**: Thursday 5/21 
 - **Time**: 10am-3pm
 - **Location**: Qualcomm Conference Center, Jacobs School of Engineering.
@@ -17,14 +15,14 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 ## Workshop Details
 
 **Platforms**:
-Kubernetes
-Jupyterhub
-TensorFlow
+- Kubernetes (datahub.ucsd.edu)
+- Jupyterhub
+- TensorFlow
 
 **Topics**:
-Neural Style Transfer
-MNIST Character Recognition
-GANs
+- Neural Style Transfer
+- MNIST Character Recognition
+- GANs
 
 **Work Environment**:
 
