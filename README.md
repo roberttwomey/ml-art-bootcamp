@@ -1,44 +1,48 @@
-# ml-art-bootcamp
-Machine Learning for the Arts Bootcamp at UCSD, Spring 2019
+# Machine Learning for the Arts Bootcamp at UCSD, Spring 2019
 
 https://github.com/roberttwomey/ml-art-bootcamp
 
-**Length**: 5 hrs
-
-**Date**: Thursday 5/21 10am-3pm.
-**Location**: Qualcomm Conference Center, Jacobs School of Engineering.
+- **Date**: Thursday 5/21 
+- **Time**: 10am-3pm
+- **Location**: Qualcomm Conference Center, Jacobs School of Engineering.
 
 **Description**
 
 This bootcamp is a one day intensive introduction to Art and Machine Learning (ML), in advance of the Special Topics course offered through ECE. The goal is to introduce both the technical software tools and the conceptual application domain of ML and Art. Students who thrive in this bootcamp workshop will enjoy the quarter-long course.
 
 ECE 16 is a prerequisite for this course, or equivalent experience with python and/or ML.
-Workshop Details
-Platforms:
+
+## Workshop Details
+
+**Platforms**:
 Kubernetes
 Jupyterhub
 TensorFlow
 
-Topics:
+**Topics**:
 Neural Style Transfer
 MNIST Character Recognition
 GANs
 
-Work Environment:
-Jupyterhub (cuda, python, tensorflow, etc. all pre-installed)
-Participant-contributed data (images, text, etc.)
-Schedule
-0:00-0:30 - Introduction and motivation/
-0:30-1:00 - Style transfer activity with online tools.
-1:00-1:15 - Style transfer discussion 
-1:15-2:00 - Hands on with python and tensorflow in jupyterhub. MNIST activity.
-2:00-2:30 - Start training your own style transfer in tensorflow.
-2:30-3:00 - BREAK
-3:00-4:30 - Advanced generative model for images
-4:30-5:00 - Closing discussion. Upload results to blog. Fill out applications for class.
+**Work Environment**:
 
-Detailed Schedule
-0:00-0:30 - Introduction - For the first half hour the instructor will briefly survey that state of contemporary Machine Learning tools, and describe the importance of ML technologies to digital arts practice. Slideshow of important Art and ML projects.
+Jupyterhub (cuda, python, tensorflow, etc. all pre-installed)
+
+Participant-contributed data (images, text, etc.)
+
+## Schedule
+- 10:00-10:30 - Introduction and motivation/
+- 10:30-11:00 - Style transfer activity with online tools.
+- 11:00-11:15 - Style transfer discussion 
+- 11:15-12:00 - Hands on with python and tensorflow in jupyterhub. MNIST activity.
+- 12:00-12:30 - Start training your own style transfer in tensorflow.
+- 12:30-1:00 - BREAK
+- 11:00-2:30 - Advanced generative model for images
+- 2:30-3:00 - Closing discussion. Upload results to blog. Fill out applications for class.
+
+## Detailed Schedule
+
+**0:00-0:30 - Introduction** - For the first half hour the instructor will briefly survey that state of contemporary Machine Learning tools, and describe the importance of ML technologies to digital arts practice. Slideshow of important Art and ML projects.
 
 0:30-1:00 - Style Transfer Activity - The instructor will briefly introduce neural style transfer, show significant examples of images made with the technique, and demonstrate online tools to accomplish style transfers. In a quick “sketching” exercise, students will have 20 minutes to experiment with style transfer software. They will select both the source style images and target images, and are asked to consider the meanings and aesthetics of their decisions.
 
