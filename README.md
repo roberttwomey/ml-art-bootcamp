@@ -31,7 +31,7 @@ Jupyterhub (cuda, python, tensorflow, etc. all pre-installed)
 Participant-contributed data (images, text, etc.)
 
 ## Schedule
-- 10:00-10:30 - Introduction and motivation/
+- 10:00-10:30 - Introduction and motivation (slides)
 - 10:30-11:00 - Style transfer activity with online tools.
 - 11:00-11:15 - Style transfer discussion 
 - 11:15-12:00 - Hands on with python and tensorflow in jupyterhub. MNIST activity.
