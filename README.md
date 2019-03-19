@@ -1,7 +1,7 @@
 # Machine Learning for the Arts Bootcamp
 
 UC San Diego - Spring 2019 - https://github.com/roberttwomey/ml-art-bootcamp
-- **Instructor**: Robert Twomey - rtwomey@ucsd.edu - roberttwomey.com
+- **Instructor**: Robert Twomey - rtwomey@ucsd.edu - http://roberttwomey.com
 - **Date**: Thursday 5/21 
 - **Time**: 10am-3pm
 - **Location**: Qualcomm Conference Center, Jacobs School of Engineering.
