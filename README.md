@@ -1,7 +1,8 @@
 # ml-art-bootcamp
 Machine Learning for the Arts Bootcamp at UCSD, Spring 2019
+https://github.com/roberttwomey/ml-art-bootcamp
 
-'Length': 5 hrs
+"Length": 5 hrs
 Date: Thursday 5/21 10am-3pm.
 Location: Qualcomm Conference Center, Jacobs School of Engineering.
 Description
