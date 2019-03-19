@@ -1,4 +1,6 @@
-# Machine Learning for the Arts Bootcamp at UCSD, Spring 2019
+# Machine Learning for the Arts Bootcamp
+
+UC San Diego - Spring 2019 
 
 https://github.com/roberttwomey/ml-art-bootcamp
 
