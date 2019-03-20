@@ -1,18 +1,19 @@
 # Machine Learning for the Arts Bootcamp
 
 UC San Diego - Spring 2019 - https://github.com/roberttwomey/ml-art-bootcamp
-- **Instructor**: Robert Twomey - rtwomey@ucsd.edu - http://roberttwomey.com
-- **Date**: Thursday 5/21 
-- **Time**: 10am-3pm
-- **Location**: Qualcomm Conference Center, Jacobs School of Engineering.
 
-**Description**
+## Description
 
 This bootcamp is a one day intensive introduction to Art and Machine Learning (ML), in advance of the Special Topics course offered through ECE. The goal is to introduce both the technical software tools and the conceptual application domain of ML and Art. Students who thrive in this bootcamp workshop will enjoy the quarter-long course.
 
 ECE 16 is a prerequisite for this course, or equivalent experience with python and/or ML.
 
-## Workshop Details
+## Details
+
+- **Instructor**: Robert Twomey - rtwomey@ucsd.edu - http://roberttwomey.com
+- **Date**: Thursday 5/21 
+- **Time**: 10am-3pm
+- **Location**: Qualcomm Conference Center, Jacobs School of Engineering.
 
 **Platforms**:
 - Kubernetes (datahub.ucsd.edu)
@@ -25,12 +26,10 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 - GANs
 
 **Work Environment**:
+- Jupyterhub (cuda, python, tensorflow, etc. all pre-installed)
+- Participant-contributed data (images, text, etc.)
 
-Jupyterhub (cuda, python, tensorflow, etc. all pre-installed)
-
-Participant-contributed data (images, text, etc.)
-
-## Schedule
+## Schedule Summary
 - 10:00-10:30 - Introduction and motivation (slides)
 - 10:30-11:00 - Style transfer activity with online tools.
 - 11:00-11:15 - Style transfer discussion 
