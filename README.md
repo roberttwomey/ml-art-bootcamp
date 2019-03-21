@@ -62,7 +62,7 @@ See: [0_Schedule.ipynb](0_Schedule.ipynb)
 
 **12:00-12:30 - Lunch Break -**
 
-**12:45-1:00 - Discuss Generative vs Perceptive ML **
+**12:45-1:00 - Discuss Generative vs Perceptive ML**
 
 **1:00-1:30 - Notebook 3: MNIST Activity** - Students will work through a provided MNIST Fashion recognition example in TensorFlow, training a recognition model, and then running it on photos of fashion samples they capture with their cellphones to explore the inferential capabilities and limitations of their model.
 
