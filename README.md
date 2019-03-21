@@ -50,7 +50,7 @@ See: [0_Schedule.ipynb](0_Schedule.ipynb)
 
 **10:30-11:00 - Style Transfer Activity** - The instructor will briefly introduce neural style transfer, and demonstrate online tools to accomplish style transfers. In a quick “sketching” exercise, students will have 20 minutes to experiment with style transfer software. They will select both the source style images and target images, and are asked to consider the meanings and aesthetics of their decisions, implementing one of the following:
 
-1.Content and Style that are Incongruous
+1. Content and Style that are Incongruous
 2. Content and Style that Amplify Each Other 
 3. Style that adds an emotional charge to the content
 
