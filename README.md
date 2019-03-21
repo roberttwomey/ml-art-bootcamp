@@ -32,8 +32,7 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 | Time | Activity |
 | --- | --- |
 | 10:00-10:30 | Lecture: Introduction and Motivation ("Generative Machines") |
-| 10:30-11:00 | Style transfer activity with online tools |
-| 11:00-11:15 | Style transfer discussion |
+| 10:30-11:15 | Style transfer activity with online tools. Discussion |
 | 11:15-11:30 | Hands on with Python and Tensorflow in Jupyterhub |
 | 11:30-12:00 | Notebook 1: Style Transfer in Python |
 | 12:00-12:30 | LUNCH BREAK |
@@ -43,7 +42,7 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 | 2:00-2:30 | Notebook 4: GAN Latent Space Exploration |
 | 2:30-3:00 | Closing Discussion. Sign up for class |
 
-## Detailed Schedule
+## Schedule Description
 
 See: [0_Schedule.ipynb](0_Schedule.ipynb)
 
@@ -57,16 +56,18 @@ C - Style that adds an emotional charge to the content
 
 **11:00-11:15 - Style Transfer Discussion** - Compare results in small groups, and choose one output to share with the class. 
 
-**1:15-1:30 - Hands on with Python and Tensorflow in jupyterhub** - Instructor will introduce our ML software development environment. We will use the TensorFlow framework through python notebooks running in jupyterhub. For the bootcamp, these resources are pre-configured as virtual machine images running on Kubernetes, to skip time consuming software install processes. 
+**11:15-11:30 - Hands on with Python and Tensorflow in jupyterhub** - Instructor will introduce our ML software development environment. We will use the TensorFlow framework through python notebooks running in jupyterhub. For the bootcamp, these resources are pre-configured as virtual machine images running on Kubernetes, to skip time consuming software install processes. 
 
-**1:30-2:00 - MNIST Activity** - Students will work through a provided MNIST digit recognition example in TensorFlow, training a recognition model, and then running it on hand-written samples they capture with their cellphones to explore the inferential capabilities and limitations of their model.
+**11:30-12:00 - Style Transfer in Python** - Students will work with a provided partial implementation of neural style transfer in TensorFlow, completing the implementation, and experimenting with their own style transfer function to produce new images. 
 
-**2:00-2:30 - Implementing Your Own Style Transfer in TensorFlow** - Students will work with a provided partial implementation of neural style transfer in TensorFlow, completing the implementation, and experimenting with their own style transfer function to produce new images. 
+**12:00-12:30 - Lunch Break -**
 
-**2:30-3:00 - Break**
+**12:45-1:00 - Discuss Generative vs Perceptive ML **
 
-**3:00-3:15 - Implementation Discussion**
+**1:00-1:30 - Notebook 3: MNIST Activity** - Students will work through a provided MNIST Fashion recognition example in TensorFlow, training a recognition model, and then running it on photos of fashion samples they capture with their cellphones to explore the inferential capabilities and limitations of their model.
 
-**3:15-4:30 - Advanced Generative Methods for Images** - Instructor will introduce advanced generative methods for images, including Generative Adversarial Networks (GANs). Students will work with provided code to experiment with a GAN. 
+**1:30-2:00 - Notebook 3: Text Generation with RNNs** - 
 
-**4:30-5:00 - Closing Discussion** - Students will briefly share their progress from the GAN activity and we will have a closing discussion. Upload workshop products to an Art and ML blog at the conclusion of the course. Instructor will answer questions about the course, and students will fill out course applications, if they are interested. 
+**2:00-2:30 - Notebook 4: GAN Latent Space Exploration** - Instructor will introduce advanced generative methods for images, including Generative Adversarial Networks (GANs). Students will work with provided code to experiment with a GAN. 
+
+**2:30-3:00 - Closing Discussion** - Students will briefly share their progress from the GAN activity and we will have a closing discussion. Instructor will answer questions about the course, and students will sign up for course if interested. 
