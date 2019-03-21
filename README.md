@@ -57,11 +57,9 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 **11:15-11:30 - Hands on with Python and Tensorflow in jupyterhub** - Instructor will introduce our ML software development environment. We will use the TensorFlow framework through python notebooks running in jupyterhub. For the bootcamp, these resources are pre-configured as virtual machine images running on Kubernetes, to skip time consuming software install processes. 
 
 1. Log-on to [datahub.ucsd.edu](http://datahub.ucsd.edu)
-2. Select `ECE188_SP19_A00: Scientific Python + Machine Learning Tools (1 GPU, 2 CPU, 16GB RAM)`
-3. Spawn. 
-4. Clone this repository into your account.
-
-Switch to this: [0_Schedule.ipynb](0_Schedule.ipynb)
+2. Select `ECE188_SP19_A00: Scientific Python + Machine Learning Tools (1 GPU, 2 CPU, 16GB RAM)`. Spawn. 
+3. Clone this repository into your account: On your jupyter Notebook Dashboard screen, open a terminal (**New->Terminal**) and run the following command at your prompt: ```git clone https://github.com/roberttwomey/ml-art-bootcamp```
+4. You should be ready to go! Switch to: [0_Schedule.ipynb](0_Schedule.ipynb)
 
 **11:30-12:00 - Notebook 1: Style Transfer in Python** - Students will work with a provided partial implementation of neural style transfer in TensorFlow, completing the implementation, and experimenting with their own style transfer function to produce new images. 
 
