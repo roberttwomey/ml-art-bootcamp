@@ -46,7 +46,7 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 **0:30-1:15 - Style Transfer Activity** - The instructor will briefly introduce neural style transfer, show significant examples of images made with the technique, and demonstrate online tools to accomplish style transfers. In a quick “sketching” exercise, students will have 20 minutes to experiment with style transfer software. They will select both the source style images and target images, and are asked to consider the meanings and aesthetics of their decisions.
 
 A - Content and Style that are Incongruos
-B - Content and Style that Amplify Each Other
+B - Content and Style that Amplify Each Other 
 C - Style that adds an emotional charge to the content
 
 **1:15-1:30 - Style Transfer Discussion** - Look at students work and discuss as a group.
