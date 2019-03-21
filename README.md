@@ -28,8 +28,8 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 - TensorFlow
 - Participant-contributed ideas + data (images, text, etc.)
 
-## Schedule Summary
-- 10:00-10:30 - Introduction and Motivation ("Generative Machines")
+## Schedule
+- 10:00-10:30 - Lecture: Introduction and Motivation ("Generative Machines")
 - 10:30-11:00 - Style transfer activity with online tools.
 - 11:00-11:15 - Style transfer discussion 
 - 11:15-11:30 - Hands on with Python and Tensorflow in Jupyterhub. 
@@ -43,15 +43,17 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 
 ## Detailed Schedule
 
-**0:00-0:30 - Introduction** - For the first half hour the instructor will briefly survey that state of contemporary Machine Learning tools, and describe the importance of ML technologies to digital arts practice. Slideshow of important Art and ML projects.
+See: [0_Schedule.ipynb](0_Schedule.ipynb)
 
-**0:30-1:15 - Style Transfer Activity** - The instructor will briefly introduce neural style transfer, show significant examples of images made with the technique, and demonstrate online tools to accomplish style transfers. In a quick “sketching” exercise, students will have 20 minutes to experiment with style transfer software. They will select both the source style images and target images, and are asked to consider the meanings and aesthetics of their decisions.
+**10:00-10:30 - Lecture ** - For the first half hour the instructor will briefly survey generative methods in the arts, and describe some contemporary ML and generative tools.
+
+**10:30-11:00 - Style Transfer Activity** - The instructor will briefly introduce neural style transfer, and demonstrate online tools to accomplish style transfers. In a quick “sketching” exercise, students will have 20 minutes to experiment with style transfer software. They will select both the source style images and target images, and are asked to consider the meanings and aesthetics of their decisions, implementing one of the following:
 
 A - Content and Style that are Incongruos
 B - Content and Style that Amplify Each Other 
 C - Style that adds an emotional charge to the content
 
-**1:15-1:30 - Style Transfer Discussion** - Look at students work and discuss as a group.
+**11:00-11:15 - Style Transfer Discussion** - Compare results in small groups, and choose one output to share with the class. 
 
 **1:15-1:30 - Hands on with Python and Tensorflow in jupyterhub** - Instructor will introduce our ML software development environment. We will use the TensorFlow framework through python notebooks running in jupyterhub. For the bootcamp, these resources are pre-configured as virtual machine images running on Kubernetes, to skip time consuming software install processes. 
 
