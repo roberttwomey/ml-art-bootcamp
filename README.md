@@ -50,15 +50,15 @@ See: [0_Schedule.ipynb](0_Schedule.ipynb)
 
 **10:30-11:00 - Style Transfer Activity** - The instructor will briefly introduce neural style transfer, and demonstrate online tools to accomplish style transfers. In a quick “sketching” exercise, students will have 20 minutes to experiment with style transfer software. They will select both the source style images and target images, and are asked to consider the meanings and aesthetics of their decisions, implementing one of the following:
 
-A - Content and Style that are Incongruos
-B - Content and Style that Amplify Each Other 
-C - Style that adds an emotional charge to the content
+1.Content and Style that are Incongruous
+2. Content and Style that Amplify Each Other 
+3. Style that adds an emotional charge to the content
 
 **11:00-11:15 - Style Transfer Discussion** - Compare results in small groups, and choose one output to share with the class. 
 
 **11:15-11:30 - Hands on with Python and Tensorflow in jupyterhub** - Instructor will introduce our ML software development environment. We will use the TensorFlow framework through python notebooks running in jupyterhub. For the bootcamp, these resources are pre-configured as virtual machine images running on Kubernetes, to skip time consuming software install processes. 
 
-**11:30-12:00 - Style Transfer in Python** - Students will work with a provided partial implementation of neural style transfer in TensorFlow, completing the implementation, and experimenting with their own style transfer function to produce new images. 
+**11:30-12:00 - Notebook 1: Style Transfer in Python** - Students will work with a provided partial implementation of neural style transfer in TensorFlow, completing the implementation, and experimenting with their own style transfer function to produce new images. 
 
 **12:00-12:30 - Lunch Break -**
 
