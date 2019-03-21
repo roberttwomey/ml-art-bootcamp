@@ -44,7 +44,7 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 
 ## Schedule Description
 
-**10:00-10:30 - Lecture** - For the first half hour the instructor will briefly survey generative methods in the arts, and describe some contemporary ML and generative tools.
+**10:00-10:30 - Lecture** - For the first half hour the instructor will briefly survey generative methods in the arts, and describe some contemporary ML and generative tools. https://drive.google.com/file/d/1H62Sy2ETbOPl9Q1aYSZVU__RWJO8wB0h/view?usp=sharing
 
 **10:30-11:00 - Style Transfer Activity** - The instructor will briefly introduce neural style transfer, and demonstrate online tools to accomplish style transfers. In a quick “sketching” exercise, students will have 20 minutes to experiment with style transfer software. They will select both the source style images and target images, and are asked to consider the meanings and aesthetics of their decisions, implementing one of the following:
 
