@@ -15,29 +15,31 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 - **Time**: 10am-3pm
 - **Location**: Qualcomm Conference Center, Jacobs School of Engineering.
 
-**Platforms**:
-- Kubernetes (datahub.ucsd.edu)
-- Jupyterhub
-- TensorFlow
-
 **Topics**:
+- Generative Methods in the Arts
 - Neural Style Transfer
-- MNIST Character Recognition
-- GANs
+- MNIST Style Recognition
+- Text Generation with RNNs
+- GAN Latent Space Exploration
 
 **Work Environment**:
-- Jupyterhub (cuda, python, tensorflow, etc. all pre-installed)
-- Participant-contributed data (images, text, etc.)
+- Kubernetes (datahub.ucsd.edu)
+- Jupyterhub (cuda, python, etc. all pre-installed)
+- TensorFlow
+- Participant-contributed ideas + data (images, text, etc.)
 
 ## Schedule Summary
-- 10:00-10:30 - Introduction and motivation (slides)
+- 10:00-10:30 - Introduction and Motivation ("Generative Machines")
 - 10:30-11:00 - Style transfer activity with online tools.
 - 11:00-11:15 - Style transfer discussion 
-- 11:15-12:00 - Hands on with python and tensorflow in jupyterhub. MNIST activity.
-- 12:00-12:30 - Start training your own style transfer in tensorflow.
-- 12:30-1:00 - BREAK
-- 11:00-2:30 - Advanced generative model for images
-- 2:30-3:00 - Closing discussion. Upload results to blog. Fill out applications for class.
+- 11:15-11:30 - Hands on with Python and Tensorflow in Jupyterhub. 
+- 11:30-12:00 - Notebook 1: Style Transfer in Python
+- 12:00-12:30 - LUNCH BREAK
+- 12:45-1:00 - Generative vs. Perceptive ML
+- 1:00-1:30 - Notebook 2: Fashion MNIST
+- 1:30-2:00 - Notebook 3: Text Generation with LSTMs
+- 2:00-2:30 - Notebook 4: GAN Latent Space Exploration
+- 2:30-3:00 - Closing Discussion. Sign up for class.
 
 ## Detailed Schedule
 
