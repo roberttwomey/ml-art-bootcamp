@@ -29,17 +29,19 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 - Participant-contributed ideas + data (images, text, etc.)
 
 ## Schedule
-- 10:00-10:30 - Lecture: Introduction and Motivation ("Generative Machines")
-- 10:30-11:00 - Style transfer activity with online tools.
-- 11:00-11:15 - Style transfer discussion 
-- 11:15-11:30 - Hands on with Python and Tensorflow in Jupyterhub. 
-- 11:30-12:00 - Notebook 1: Style Transfer in Python
-- 12:00-12:30 - LUNCH BREAK
-- 12:45-1:00 - Generative vs. Perceptive ML
-- 1:00-1:30 - Notebook 2: Fashion MNIST
-- 1:30-2:00 - Notebook 3: Text Generation with LSTMs
-- 2:00-2:30 - Notebook 4: GAN Latent Space Exploration
-- 2:30-3:00 - Closing Discussion. Sign up for class.
+| Time | Activity |
+| --- | --- |
+| 10:00-10:30 | Lecture: Introduction and Motivation ("Generative Machines") |
+| 10:30-11:00 | Style transfer activity with online tools |
+| 11:00-11:15 | Style transfer discussion |
+| 11:15-11:30 | Hands on with Python and Tensorflow in Jupyterhub |
+| 11:30-12:00 | Notebook 1: Style Transfer in Python |
+| 12:00-12:30 | LUNCH BREAK |
+| 12:45-1:00 | Generative vs. Perceptive ML |
+| 1:00-1:30 | Notebook 2: Fashion MNIST |
+| 1:30-2:00 | Notebook 3: Text Generation with LSTMs |
+| 2:00-2:30 | Notebook 4: GAN Latent Space Exploration |
+| 2:30-3:00 | Closing Discussion. Sign up for class |
 
 ## Detailed Schedule
 
