@@ -44,9 +44,7 @@ ECE 16 is a prerequisite for this course, or equivalent experience with python a
 
 ## Schedule Description
 
-See: [0_Schedule.ipynb](0_Schedule.ipynb)
-
-**10:00-10:30 - Lecture** - For the first half hour the instructor will briefly survey generative methods in the arts, and describe some contemporary ML and generative tools.
+**10:00-10:30 - Lecture** - For the first half hour the instructor will briefly survey generative methods in the arts, and describe some contemporary ML and generative tools. https://drive.google.com/file/d/1H62Sy2ETbOPl9Q1aYSZVU__RWJO8wB0h/view?usp=sharing
 
 **10:30-11:00 - Style Transfer Activity** - The instructor will briefly introduce neural style transfer, and demonstrate online tools to accomplish style transfers. In a quick “sketching” exercise, students will have 20 minutes to experiment with style transfer software. They will select both the source style images and target images, and are asked to consider the meanings and aesthetics of their decisions, implementing one of the following:
 
@@ -57,6 +55,11 @@ See: [0_Schedule.ipynb](0_Schedule.ipynb)
 **11:00-11:15 - Style Transfer Discussion** - Compare results in small groups, and choose one output to share with the class. 
 
 **11:15-11:30 - Hands on with Python and Tensorflow in jupyterhub** - Instructor will introduce our ML software development environment. We will use the TensorFlow framework through python notebooks running in jupyterhub. For the bootcamp, these resources are pre-configured as virtual machine images running on Kubernetes, to skip time consuming software install processes. 
+
+1. Log-on to [datahub.ucsd.edu](http://datahub.ucsd.edu)
+2. Select `ECE188_SP19_A00: Scientific Python + Machine Learning Tools (1 GPU, 2 CPU, 16GB RAM)`. Spawn. 
+3. Clone this repository into your account: On your jupyter Notebook Dashboard screen, open a terminal (**New->Terminal**) and run the following command at your prompt: ```git clone https://github.com/roberttwomey/ml-art-bootcamp```
+4. You should be ready to go! Switch to: [0_Schedule.ipynb](0_Schedule.ipynb)
 
 **11:30-12:00 - Notebook 1: Style Transfer in Python** - Students will work with a provided partial implementation of neural style transfer in TensorFlow, completing the implementation, and experimenting with their own style transfer function to produce new images. 
 
